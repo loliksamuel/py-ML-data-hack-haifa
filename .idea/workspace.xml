@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73731a41-5422-409a-8dbd-c45b89aee45a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/data_hack_haifa.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lr_overfitting.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lr_splited.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nn.py" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/hakovetz.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebooks/0.0.0_into_to_python.ipynb" afterPath="$PROJECT_DIR$/notebooks/0.0.0_into_to_python.ipynb" />
