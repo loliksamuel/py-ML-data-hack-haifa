@@ -50,11 +50,6 @@ print ("reset x with 1 column as feature (instead of 10), x.shape=", x_train.sha
 y_test = np.expand_dims(y_test,1)
 print ("reset y with 1 column as label   (instead of  0), y.shape=", y_train.shape, " ex.:", y_train[0])
 
-#print(dir(model))
-#print(dir())
-#print(type(model))
-#print(dir(model)) # diagnose the model arguments
-
 # create model
 model = linear_model.LinearRegression()
 
@@ -64,6 +59,13 @@ model = linear_model.LinearRegression()
 
 #train model on train data
 model.fit(x_train, y_train)
+
+print("model summary")
+print(dir(model))
+print(dir())
+print(type(model))
+print(dir(model)) # diagnose the model arguments
+
 
 # predict on test data (unseen data)
 predictions = model.predict(x_test)
