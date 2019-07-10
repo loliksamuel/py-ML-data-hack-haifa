@@ -13,7 +13,7 @@ pip install ___
 pip list
 pip show ___
 
-numpy
+numpy-matlab of python
 import numpy as np
 a=[1,2,3]
 arr = np.array(a) # numpy arr is faster(written in c)
